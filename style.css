@@ -10,3 +10,11 @@ body{
     font-size: 30px;
     color: #FFF8DC;
 }
+/* ------------Package-------------------- */
+.package{
+    font-size: 22px;
+}
+#package-mid{
+    height: 554px;
+    transform: translatey(-48px);
+}
